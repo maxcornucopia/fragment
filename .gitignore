@@ -4,3 +4,6 @@ syntax: regexp
 
 .idea
 .iml
+fragment-business/fragment-business.iml
+fragment-common/fragment-common.iml
+fragment.iml
